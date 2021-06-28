@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s2c#hpg1^o6ah%kp_!w2=t4q_q8s47v_+043890f0(p)7+w+1z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tindog-working.herokuapp.com',127.0.0.1:8000]
+ALLOWED_HOSTS = ["tindog-working.herokuapp.com","127.0.0.1:8000"]
 
 
 # Application definition
